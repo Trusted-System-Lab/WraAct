@@ -1,0 +1,4 @@
+# This folder is intentionally left empty to ensure that the directory is included in version control.
+# You need to add the ONNX model files here for the project to work correctly.
+# You can download the benchmark ONNX models from the following Google Drive link:
+#   https://drive.google.com/drive/folders/1C4kYaKb_Pd3xCo6aCy6W80tw43CM8Nn8?usp=sharing
