@@ -6,6 +6,9 @@ This artifact accompanies the paper **Convex Hull Approximation for Activation F
 
 > **TIP**: You can download our original logs and benchmark neural network ONNX models from [Google Drive link](https://drive.google.com/file/d/1YYpIYLbcSqPM1F01Xld08KmzIfGCQgwU/view?usp=sharing).
 
+> **See Also**:
+> We provide a _regularly maintained and updated_ repo for the algorithm part in [wraact](https://github.com/ZhongkuiMa/wraact).
+
 **Table of Contents**
 
 - [Quick Installation and Test](#quick-installation-and-test)
