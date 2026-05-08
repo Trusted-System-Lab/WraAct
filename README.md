@@ -38,7 +38,7 @@ This artifact accompanies the paper **Convex Hull Approximation for Activation F
 If you're familiar with Python and the libraries we use, you can quickly install WraAct by following these steps:
 
 ```cmd
-git clone https://github.com/MrAnonymous3642/WraAct.git WraAct
+git clone https://github.com/Trusted-System-Lab/WraAct.git WraAct
 cd WraAct
 bash setup_wraact.sh
 bash test_wraact.sh
